@@ -1,0 +1,1 @@
+export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:$PWD/Project1/build/
